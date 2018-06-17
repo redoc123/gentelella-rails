@@ -8,7 +8,7 @@ PATH
       coffee-rails
       fastclick-rails
       flot-rails
-      font-awesome-sass (~> 4.7.0)
+      font-awesome-sass (~> 5.0.13)
       icheck-rails
       jquery-rails
       momentjs-rails
