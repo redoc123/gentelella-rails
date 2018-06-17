@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'coffee-rails'
 
   s.add_runtime_dependency "bootstrap-sass", "~> 3.3.6"
-  s.add_runtime_dependency "font-awesome-sass", "~> 4.7.0"
+  s.add_runtime_dependency "font-awesome-sass", "~> 5.0.13"
   s.add_runtime_dependency "jquery-rails"
   s.add_runtime_dependency "icheck-rails"
   s.add_runtime_dependency "nprogress-rails"
